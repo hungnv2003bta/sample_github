@@ -1,1 +1,1 @@
-print("hello world local machine")
+print("hello world server")
